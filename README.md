@@ -1,9 +1,21 @@
 # <p align ="center"> Healthcare Tableau Dashboard
 # <p align ="center"> Emergency Patients Visit  Dashboard
-
-![Healthcare Tableau Dashboard](dashboard_screenshot.png)
-
 🏥📊 Excited to share my first healthcare Tableau dashboard with you all!
+
+![Healthcare Tableau Dashboard](https://github.com/Pandat-0052/Hospital-Emergency-Patients-Visit-Dashboard-Using-Tableau-StoryTelling-Healtcare/blob/main/Hospital%20Emergency%20Visits%20%20Dashboard.png)
+
+## Tableau Story
+This dashboard utilizes Tableau's storytelling feature to create a compelling narrative around the data.
+
+![Healthcare StoryTelling](https://github.com/Pandat-0052/Hospital-Emergency-Patients-Visit-Dashboard-Using-Tableau-StoryTelling-Healtcare/blob/main/Story%201.png)
+![Healthcare StoryTelling](https://github.com/Pandat-0052/Hospital-Emergency-Patients-Visit-Dashboard-Using-Tableau-StoryTelling-Healtcare/blob/main/Story%202.png)
+![Healthcare StoryTelling](https://github.com/Pandat-0052/Hospital-Emergency-Patients-Visit-Dashboard-Using-Tableau-StoryTelling-Healtcare/blob/main/Story%203.png)
+![Healthcare StoryTelling](https://github.com/Pandat-0052/Hospital-Emergency-Patients-Visit-Dashboard-Using-Tableau-StoryTelling-Healtcare/blob/main/Story%204.png)
+![Healthcare StoryTelling](https://github.com/Pandat-0052/Hospital-Emergency-Patients-Visit-Dashboard-Using-Tableau-StoryTelling-Healtcare/blob/main/Story%205.png)
+![Healthcare StoryTelling](https://github.com/Pandat-0052/Hospital-Emergency-Patients-Visit-Dashboard-Using-Tableau-StoryTelling-Healtcare/blob/main/Story%206.png)
+
+
+
 
 ## About
 This Tableau dashboard analyzes emergency room data, providing insights into patient demographics, visit details, patient age, patient satisfaction, and more. 
@@ -19,20 +31,19 @@ This Tableau dashboard analyzes emergency room data, providing insights into pat
 - Patient Age Analysis
 - Patient Satisfaction Analysis
 
-## Tableau Story
-This dashboard utilizes Tableau's storytelling feature to create a compelling narrative around the data.
+
 
 ## Data Source
-The data used for this dashboard was collected from [insert data source].
+The data used for this dashboard [data](https://github.com/Pandat-0052/Hospital-Emergency-Patients-Visit-Dashboard-Using-Tableau-StoryTelling-Healtcare/blob/main/Hospital%20ER.xlsx).
 
 ## How to Use
-1. Open the Tableau workbook (.twb) file in Tableau Desktop or Tableau Public.
+1. Open the Tableau workbook (.twb) file in Tableau Desktop or Tableau Public.[Link](https://github.com/Pandat-0052/Hospital-Emergency-Patients-Visit-Dashboard-Using-Tableau-StoryTelling-Healtcare/blob/main/ER.twb)
 2. Explore the dashboard to gain insights into emergency room visits.
 
 ## Feedback
 Your feedback is valuable! Feel free to reach out with any comments, questions, or suggestions.
 
 ## Author
-[Your Name]
+[Aakash Sharma]
 
 👩‍⚕️👨‍⚕️ Proud of this dashboard as it not only provides valuable insights but also helps in improving
